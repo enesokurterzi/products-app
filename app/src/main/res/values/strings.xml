@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProductsApp</string>
+    <string name="button_login">Login</string>
+    <string name="text_User_Name">UserName…</string>
+    <string name="text_Password">Password…</string>
+    <string name="button_search">Search</string>
+    <string name="r_image">ProductGalleryImage</string>
+    <string name="image_detail">ImageDetail</string>
+    <string name="text_detail">TextDetail</string>
+</resources>
